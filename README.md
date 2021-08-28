@@ -5,6 +5,7 @@
 - 📫 How to reach me: nethmikodikara9@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadnkodikara&color=brightgreen" alt="kadnkodikara" /> </p>
 <hr>
+
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)<br>
