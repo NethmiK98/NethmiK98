@@ -1,5 +1,5 @@
 <h1 align=center>Hey there!  :wave: I'm Nethmi!</h1>
-
+<hr>
 -  👧: I am Softwre Engineering Undergraduate at NSBM Green University. 
 -  :raised_hand: I’m looking to collaborate on open source and commercial projects.
 - 📫 How to reach me: nethmikodikara9@gmail.com
@@ -27,7 +27,7 @@
 <!-- ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)  --> 
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  -->
 <!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
-<br><hr>
+<hr>
 
 <!--![Nethmi's github stats](https://github-readme-stats.vercel.app/api?username=kadnkodikara&layout=compact&langs_count=8&theme=light)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadnkodikara&layout=compact&langs_count=8&theme=light)
