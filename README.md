@@ -1,5 +1,6 @@
 <h1 align=center>Hey there!  :wave: I'm Nethmi!</h1>
 <hr>
+
 # About Me:
 -  👧 I am Softwre Engineering Undergraduate at NSBM Green University. 
 -  :raised_hand: I’m looking to collaborate on open source projects.
@@ -7,6 +8,7 @@
 - 📫 How to reach me: nethmikodikara9@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadnkodikara&color=brightgreen" alt="kadnkodikara" /> </p>
 <hr>
+
 # Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-green?style=flat-square&logo=pycharm)
