@@ -11,7 +11,7 @@
 
 <hr>
 
-### Connect with me:
+## Connect with me:
 
 [![twitter Card](https://img.icons8.com/color/50/000000/twitter.png)](https://mobile.twitter.com/kodikara_nethmi)
 [![linkedin Card](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/nethmi-kodikara-4280761b2/)
