@@ -8,6 +8,7 @@
 - 📫 How to reach me: nethmikodikara9@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NethmiK98&color=brightgreen" alt="NethmiK98" /></p> 
 [![GitHub: @NethmiK98](https://img.shields.io/github/followers/NethmiK98?color=green&logo=github&style=flat-square)](https://github.com/NethmiK98)
+
 <hr>
 
 ## Languages and Tools:
