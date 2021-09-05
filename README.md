@@ -6,7 +6,9 @@
 -  :raised_hand: I’m looking to collaborate on open source projects.
 -  🌱 I’m currently learning Flutter.
 - 📫 How to reach me: nethmikodikara9@gmail.com
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadnkodikara&color=brightgreen" alt="kadnkodikara" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadnkodikara&color=brightgreen" alt="kadnkodikara" /> 
+[![GitHub: @NethmiK98](https://img.shields.io/github/followers/NethmiK98?color=green&logo=github&style=flat-square)](https://github.com/NethmiK98)
+</p>
 <hr>
 
 ## Languages and Tools:
