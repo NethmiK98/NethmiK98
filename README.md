@@ -16,7 +16,7 @@
 [![twitter Card](https://img.icons8.com/color/50/000000/twitter.png)](https://mobile.twitter.com/kodikara_nethmi)
 [![linkedin Card](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/nethmi-kodikara-4280761b2/)
 [![telegram Card](https://img.icons8.com/color/50/000000/telegram-app.png)](https://t.me/NethmiKodikara)
-[instagram Card](https://img.icons8.com/fluent/50/000000/instagram-new.png)](https://www.instagram.com/nethmi_kodikara/)<br>
+[![instagram Card](https://img.icons8.com/fluent/50/000000/instagram-new.png)](https://www.instagram.com/nethmi_kodikara/)
 
 <hr>
 
