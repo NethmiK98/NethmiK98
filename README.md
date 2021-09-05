@@ -7,16 +7,16 @@
 -  🌱 I’m currently learning Flutter.
 - 📫 How to reach me: nethmikodikara9@gmail.com
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NethmiK98&color=brightgreen" alt="NethmiK98" /></p> 
-<!--[![GitHub: @NethmiK98](https://img.shields.io/github/followers/NethmiK98?color=green&logo=github&style=flat-square)](https://github.com/NethmiK98)
+<!-- ![![GitHub: @NethmiK98](https://img.shields.io/github/followers/NethmiK98?color=green&logo=github&style=flat-square)](https://github.com/NethmiK98) -->
 
 <hr>
 
-<!--!### Connect with me:
+### Connect with me:
 
-<!-- ![![twitter Card](https://img.icons8.com/color/50/000000/twitter.png)](https://twitter.com/ThaanuPerera)
-<!-- ![![linkedin Card](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/thaanu-perera-0a84b9194)
-<!-- ![![telegram Card](https://img.icons8.com/color/50/000000/telegram-app.png)](https://t.me/ThaanuPerera)
-[!-- ![instagram Card](https://img.icons8.com/fluent/50/000000/instagram-new.png)](https://www.instagram.com/_thaxnu_/)<br>
+[![twitter Card](https://img.icons8.com/color/50/000000/twitter.png)](https://mobile.twitter.com/kodikara_nethmi)
+[![linkedin Card](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/nethmi-kodikara-4280761b2/)
+[![telegram Card](https://img.icons8.com/color/50/000000/telegram-app.png)](https://t.me/NethmiKodikara)
+[instagram Card](https://img.icons8.com/fluent/50/000000/instagram-new.png)](https://www.instagram.com/nethmi_kodikara/)<br>
 
 <hr>
 
