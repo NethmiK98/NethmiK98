@@ -46,7 +46,7 @@
 <hr>
 
 <!--![Nethmi's github stats](https://github-readme-stats.vercel.app/api?username=kadnkodikara&layout=compact&langs_count=8&theme=light)-->
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadnkodikara&layout=compact&langs_count=8&theme=light)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadnkodikara&layout=compact&langs_count=8&theme=light)
 <hr>
 
 
