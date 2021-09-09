@@ -45,7 +45,7 @@
 <!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 <hr>
 
-![Nethmi's github stats](https://github-readme-stats.vercel.app/api?username=NethmiK98&layout=compact&langs_count=8&theme=light)
+<!-- ![Nethmi's github stats](https://github-readme-stats.vercel.app/api?username=NethmiK98&layout=compact&langs_count=8&theme=light) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NethmiK98&layout=compact&langs_count=8&theme=light) -->
 <hr>
 
